@@ -61,6 +61,8 @@ En esta seccion se especifica las herramientas tecnicas con las que se realizo e
 ### API Consultado:
 En este proyecto se utilizo el API de la plataforma [YELP](https://www.yelp.com/developers/documentation/v3), esta plataforma ofrece una serie de endpoints para consultar datos estructurados en JSON. 
 
+Dejo los links de la documentacion abajo
+
 * [BUSCAR](https://www.yelp.com/developers/documentation/v3/business_search)
 
 * [BUSCAR POR_ID](https://www.yelp.com/developers/documentation/v3/business)
