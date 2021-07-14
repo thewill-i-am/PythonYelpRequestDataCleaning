@@ -1,7 +1,7 @@
 <h3 align="center">Procesamiento de datos plaforma YELP</h3>
 
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
