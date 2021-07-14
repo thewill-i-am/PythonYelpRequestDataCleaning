@@ -9,13 +9,7 @@
         <li><a href="#Construido con">Construido con:</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Empezando</a>
-      <ul>
-        <li><a href="#prerequisites">Prerrequisitos</a></li>
-        <li><a href="#installation">Instalación</a></li>
-      </ul>
-    </li>
+    <li><a href="#getting-started">Empezando</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
