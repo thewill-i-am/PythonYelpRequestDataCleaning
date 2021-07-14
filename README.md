@@ -34,11 +34,11 @@
 El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
+Requerimientos: 
+    1.En primer lugar, descubrir cómo yelp presenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. yelp parece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos.(20 puntos)
+    a.Pueden usar esquemas, diagramas, según se considere necesario.2.En segundo lugar, debemos desarrollar una forma de extraer la información de yelp de los restaurantes de la cuidad de Asheville. (20 puntos)3.Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. (20 puntos)
+    
+   4.Se debe procesar los datos para que sea almacenada en unatabla donde se muestrela información del restaurante. (20 puntos)a.Pueden usar CSV para esto5.Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.(20 puntos)a.Tener en cuenta la estructura de las carpetas para los archivos sin procesar y procesados. Además, de la documentación de la estructura de los datos, generados en el punto 1. b.Crear el documento Readme.txt al inicio del proyecto donde se documento todo lo que se considere necesario para entender los documentos, estructura de carpetas y demás que se considere necesario.
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
