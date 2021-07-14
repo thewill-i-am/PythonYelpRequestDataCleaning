@@ -111,29 +111,29 @@ El proyecto en realidad corre sobre un jupyter notebook en un Google Colab, pref
 
 ### Requisitos
 
-# Usage
+### Usage
 
 To use this package, when creating the new repository for your project, select this project as the template.
 Then, replace all occurrences of "PACKAGENAME", "URL", "GIT_URL", and other filler values in `setup.py` and `meta.yaml`.
 Set version numbers as needed in `PACKAGENAME/__init__.py` and `meta.yaml`, and add your code where applicable.
 
-# Building your package
+### Building your package
 
-## PyPI
+### PyPI
 
 ```shell
 python setup.py install
 ```
 
-## Anaconda
+### Anaconda
 
 ```shell
 conda build --python {PYTHON_VERSION} meta.yaml
 ```
 
-# Uploading your package
+### Uploading your package
 
-## PyPI
+### PyPI
 
 ```shell
 # ensure `twine` is install
@@ -143,7 +143,7 @@ python setup.py sdist
 twine upload dist/*
 ```
 
-## Anaconda
+### Anaconda
 
 ```shell
 # ensure conda-build and anaconda-client are installed
@@ -155,17 +155,17 @@ cd $HOME/miniconda3/conda-bld/
 anaconda upload */PACKAGENAME-VERSION_*.tar.bz2
 ```
 
-# Installing your package
+### Installing your package
 
 After uploading to your repository of interest, you should be able to download and install your package according to the tools for that repository.
 
-## PyPI
+### PyPI
 
 ```shell
 pip install PACKAGENAME
 ```
 
-## Anaconda
+### Anaconda
 
 ```shell
 conda install PACKAGENAME
@@ -173,20 +173,14 @@ conda install PACKAGENAME
 
 ### Instalación
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Abrir ANACONDA o COLAB
+2. clonar el REPO
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Abrir el Jupyter Notebook  y abrir el archivo: ```APP/Python_Yelp_Request_Data_Cleaning.ipynb```
 
+4. Crear un Token API Key ```APP/token.txt```
 
 
 <!-- USAGE EXAMPLES -->
