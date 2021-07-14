@@ -105,19 +105,9 @@ La nomenclatura utilizada para los files es [Pascal CASE](https://www.theservers
 <!-- GETTING STARTED -->
 ## Empezando
 
-El proyecto en realidad corre sobre un jupyter notebook en un Google Colab, preferiblemente se debe de correr en esa plataforma. sin embargo tambien se puede correr desde un ambiente local utilizando ANACONDA. 
+El proyecto en realidad corre sobre un `Jupyter notebook` en un `Google Colab`, preferiblemente se debe de correr en esa plataforma. sin embargo tambien se puede correr desde un ambiente local utilizando `ANACONDA`. 
 
-
-
-### Requisitos
-
-### Usage
-
-To use this package, when creating the new repository for your project, select this project as the template.
-Then, replace all occurrences of "PACKAGENAME", "URL", "GIT_URL", and other filler values in `setup.py` and `meta.yaml`.
-Set version numbers as needed in `PACKAGENAME/__init__.py` and `meta.yaml`, and add your code where applicable.
-
-### Building your package
+Adjunto una guia abajo para la instalacion de `ANACONDA`
 
 ### PyPI
 
