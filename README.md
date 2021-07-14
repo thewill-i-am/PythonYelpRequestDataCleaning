@@ -51,12 +51,13 @@ El proyecto es un software que pueda extraer, transformar y cargar los datos de 
 </ol>
 
 
-### Construido con:
+## Construido con:
 En esta seccion se especifica las herramientas tecnicas con las que se realizo el proyecto
 
 * [Python](https://www.python.org/)
 * [Jupyter](https://jupyter.org/)
 * [COLAB](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+
 
 
 <!-- GETTING STARTED -->
