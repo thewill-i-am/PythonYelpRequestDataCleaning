@@ -4,12 +4,12 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li> <a href="#sobre">Sobre el proyecto</a></li>
-    <li><a href="#requerimientos">Requerimientos :</a></li>
-    <li><a href="#construido">Construido con:</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#requerimientos">Requerimientos</a></li>
+    <li><a href="#construido">Construido con</a></li>
+    <li><a href="#api_consultado">YELP API Consultado</a></li>
+    <li><a href="#folders">Folders</a></li>
+    <li><a href="#nomenclatura">Nomenclatura</a></li>
+    <li><a href="#empezando">Empezando</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -49,6 +49,8 @@ En esta seccion se especifica las herramientas tecnicas con las que se realizo e
 * [Jupyter](https://jupyter.org/)
 * [COLAB](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
+<div id="api_consultado"></div>
+
 ### API Consultado:
 En este proyecto se utilizo el API de la plataforma [YELP](https://www.yelp.com/developers/documentation/v3), esta plataforma ofrece una serie de endpoints para consultar datos estructurados en JSON. 
 
@@ -67,6 +69,7 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 
 
 
+<div id="folders"></div>
 
 ## Estructura de los Folders:
 
@@ -87,11 +90,15 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 |   |-- README.md
 ```
 
+<div id="nomenclatura"></div>
+
 ## Nomenclatura:
 
 La nomenclatura utilizada para los folders es [SNAKE_CASE](https://en.wikipedia.org/wiki/Snake_case)
 La nomenclatura utilizada para los files es [Pascal CASE](https://www.theserverside.com/definition/Pascal-case)
 
+
+<div id="Empezando"></div>
 
 <!-- GETTING STARTED -->
 ## Empezando
