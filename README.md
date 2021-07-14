@@ -55,9 +55,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Python](https://getbootstrap.com)
-* [Jupyter](https://getbootstrap.com)
-* [COLAB](https://getbootstrap.com)
+* [Python](https://www.python.org/)
+* [Jupyter](https://jupyter.org/)
+* [COLAB](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 
 <!-- GETTING STARTED -->
