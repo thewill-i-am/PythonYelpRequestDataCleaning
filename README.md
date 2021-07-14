@@ -105,8 +105,8 @@ La nomenclatura utilizada para los files es [Pascal CASE](https://www.theservers
 <!-- GETTING STARTED -->
 ## Empezando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+El proyecto en realidad corre sobre un jupyter notebook en un Google Colab, preferiblemente se debe de correr en esa plataforma. sin embargo tambien se puede correr desde un ambiente local utilizando ANACONDA. 
+
 
 ### Requisitos
 
