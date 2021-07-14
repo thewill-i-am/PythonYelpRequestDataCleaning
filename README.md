@@ -31,7 +31,7 @@
 ## About The Project
 
 
-El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma yelp.
+El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
 
 Here's why:
