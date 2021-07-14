@@ -78,6 +78,9 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 
 
 ## Estructura de los Folders:
+
+Nuestro proyecto tiene la siguiente estructura de folders:
+
 ```
 |-- Python_Yelp_Request_Data_Cleaning
 |   |-- APP
