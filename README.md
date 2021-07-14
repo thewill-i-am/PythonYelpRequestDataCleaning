@@ -3,12 +3,8 @@
 <details open="open">
   <summary>Tabla de contenidos</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
-      <ul>
-        <li><a href="#Construido con">Construido con:</a></li>
-      </ul>
-    </li>
+    <li> <a href="#about-the-project">Sobre el proyecto</a></li>
+    <li><a href="#Construido con">Construido con:</a></li>
     <li><a href="#getting-started">Empezando</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
