@@ -40,12 +40,12 @@ El proyecto es un software que pueda extraer, transformar y cargar los datos de 
 <li>En primer lugar, descubrir cómo YELP presenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. YELP parece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos. (Pueden usar esquemas, diagramas, según se considere necesario)</li>
 
 <li>En segundo lugar, debemos desarrollar una forma de extraer la información de YELP de los restaurantes de la cuidad de Asheville.</li>
-
+<br/>
 <li>Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. </li>
-
+<br/>
 
 <li>Se debe procesar los datos para que sea almacenada en una tabla donde se muestrela información del restaurante. </li>
-
+<br/>
 
 <li>Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.</li>
 </ol>
