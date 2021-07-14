@@ -62,6 +62,7 @@ En esta seccion se especifica las herramientas tecnicas con las que se realizo e
 En este proyecto se utilizo el API de la plataforma [YELP](https://www.yelp.com/developers/documentation/v3), esta plataforma ofrece una serie de endpoints para consultar datos estructurados en JSON. 
 
 [BUSCAR](https://www.yelp.com/developers/documentation/v3/business_search)
+
 [BUSCAR POR_ID](https://www.yelp.com/developers/documentation/v3/business)
 
 <li>Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.</li>
