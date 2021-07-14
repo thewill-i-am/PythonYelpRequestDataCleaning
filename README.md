@@ -78,7 +78,7 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 
 
 ## Estructura de los Folders:
-<code>
+```
 |-- project-root
 |   |-- templates
 |   |   |-- component
@@ -94,7 +94,7 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 |   |-- Gruntfile.js
 |   |-- LICENSE.md
 |   |-- README.md
-</code>
+```
 
 ## Nomenclatura:
 
