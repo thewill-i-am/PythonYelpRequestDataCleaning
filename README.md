@@ -133,7 +133,9 @@ Las contribuciones son lo que hacen que la comunidad de código abierto sea un l
 
 William Aguilar - [@Github](https://github.com/william2215) - wil-19-60@live.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/william2215/Python_Yelp_Request_Data_Cleaning/)
+Project Link: [https://github.com/william2215/Python_Yelp_Request_Data_Cleaning/](https://github.com/william2215/Python_Yelp_Request_Data_Cleaning/)
+
+
 
 
 
