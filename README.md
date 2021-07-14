@@ -38,7 +38,7 @@ El proyecto es un software que pueda extraer, transformar y cargar los datos de 
 
 <ol>
 <li>En primer lugar, descubrir cómo YELP presenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. YELP parece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos. (Pueden usar esquemas, diagramas, según se considere necesario)</li>
-
+<br/>
 <li>En segundo lugar, debemos desarrollar una forma de extraer la información de YELP de los restaurantes de la cuidad de Asheville.</li>
 <br/>
 <li>Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. </li>
