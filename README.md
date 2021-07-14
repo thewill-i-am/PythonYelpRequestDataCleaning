@@ -79,11 +79,17 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 
 ## Estructura de los Folders:
 ```
-|-- project-root
-|   |-- templates
-|   |-- templates
-|   |-- templates
-|   |-- templates
+|-- Python_Yelp_Request_Data_Cleaning
+|   |-- APP
+|   |   |--Python_Yelp_Request_Data_Cleaning.ipynb
+|   |   |--token.txt
+|   |-- Datos_Procesados_CSV
+|   |   |--Restaurantes.csv
+|   |   |--Restaurante Corner Kitchen.csv
+|   |-- Datos_Sin_Procesar_JSON
+|   |   |-- restaurante 3nu2FbuN__5LqOaGDRihTQ.json
+|   |   |-- Restaurantes.json
+|   |-- Esquema_API
 |   |-- README.md
 ```
 
