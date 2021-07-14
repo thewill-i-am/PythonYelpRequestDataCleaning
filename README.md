@@ -4,8 +4,8 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li> <a href="#sobre">Sobre el proyecto</a></li>
-    <li><a href="#Construido con">Construido con:</a></li>
-    <li><a href="#getting-started">Empezando</a></li>
+    <li><a href="#requerimientos">Requerimientos :</a></li>
+    <li><a href="#construido">Construido con:</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -16,13 +16,11 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
-## Sobre el proyecto
-
 <div id="sobre"></div>
+## Sobre el proyecto
 El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
+<div id="requerimientos"></div>
 
 ## Requerimientos: 
 
@@ -40,6 +38,8 @@ El proyecto es un software que pueda extraer, transformar y cargar los datos de 
 <li>Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.</li>
 </ol>
 
+
+<div id="construido"></div>
 
 ## Construido con:
 En esta seccion se especifica las herramientas tecnicas con las que se realizo el proyecto
