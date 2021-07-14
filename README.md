@@ -58,6 +58,9 @@ En esta seccion se especifica las herramientas tecnicas con las que se realizo e
 * [Jupyter](https://jupyter.org/)
 * [COLAB](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
+### API Consultado:
+En este proyecto se utilizo el API de la plataforma *[YELP](https://www.yelp.com/developers/documentation/v3)
+
 
 
 <!-- GETTING STARTED -->
