@@ -186,18 +186,16 @@ conda install PACKAGENAME
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Unicamente se necesita poner a correr las celdas de los Scripts y eso va a generar archivos CSV 
 
 
 
 <!-- CONTRIBUTING -->
 ## Contruibuir
 
-Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar tan increíble para aprender, inspirar y crear. Cualquier contribución que haga es ** muy apreciada **.
+Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar tan increíble para aprender, inspirar y crear. Cualquier contribución que haga es **muy apreciada**.
 
-1. Fork the Project
+1. Clone el proyecto
 2. Cree un branch con la siguiente estructura: (`git checkout -b feature/AmazingFeature`)
 3. Haga comentarios de sus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Haga push del branch (`git push origin feature/AmazingFeature`)
@@ -205,7 +203,7 @@ Las contribuciones son lo que hacen que la comunidad de código abierto sea un l
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 William Aguilar - [@Github](https://github.com/william2215) - wil-19-60@live.com
 
