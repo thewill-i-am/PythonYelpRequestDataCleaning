@@ -34,22 +34,19 @@
 El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
 
-Requerimientos: 
+## Requerimientos: 
 
-En primer lugar, descubrir cómo YELP presenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. YELP parece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos. (Pueden usar esquemas, diagramas, según se considere necesario)
+*En primer lugar, descubrir cómo YELP presenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. YELP parece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos. (Pueden usar esquemas, diagramas, según se considere necesario)
 
-En segundo lugar, debemos desarrollar una forma de extraer la información de YELP de los restaurantes de la cuidad de Asheville.
+*En segundo lugar, debemos desarrollar una forma de extraer la información de YELP de los restaurantes de la cuidad de Asheville.
 
-Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. 
-
-
-Se debe procesar los datos para que sea almacenada en una tabla donde se muestrela información del restaurante. 
+*Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. 
 
 
-Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.
+*Se debe procesar los datos para que sea almacenada en una tabla donde se muestrela información del restaurante. 
 
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+*Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.
 
 ### Construido con:
 En esta seccion se especifica las herramientas tecnicas con las que se realizo el proyecto
