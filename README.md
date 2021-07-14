@@ -150,7 +150,7 @@ conda install PACKAGENAME
 ### Instalación
 
 1. Abrir ANACONDA o COLAB
-2. clonar el REPO
+2. Clonar el REPO
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
