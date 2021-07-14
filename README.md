@@ -6,7 +6,7 @@
     <li>
       <a href="#about-the-project">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Construido con:</a></li>
+        <li><a href="#Construido con">Construido con:</a></li>
       </ul>
     </li>
     <li>
