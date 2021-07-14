@@ -1,4 +1,4 @@
-<h3 align="center">Procesamiento de datos para YELP</h3>
+<h3 align="center">Procesamiento de datos plaforma YELP</h3>
 
 <details open="open">
   <summary>Table of Contents</summary>
