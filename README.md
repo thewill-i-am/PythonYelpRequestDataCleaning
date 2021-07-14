@@ -38,6 +38,17 @@ Requerimientos:
 
 En primer lugar, descubrir cómo yelppresenta los datos delos negociosy modelar esta estructura de datos para que sepamos cómo interactuar con ella. yelpparece tener el concepto de business, event, category, etc. y debemos descubrir y documentar estos esquemas y relaciones de datos.(Pueden usar esquemas, diagramas, según se considere necesario)
 
+En segundo lugar, debemos desarrollar una forma de extraer la información de yelpde los restaurantes de la cuidad de Asheville.
+
+Posteriormente se debe extraer los datos del restaurante por el ID del restaurante. 
+
+
+Se debe procesar los datos para que sea almacenada en unatabla donde se muestrela información del restaurante. 
+
+
+Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.
+
+
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
