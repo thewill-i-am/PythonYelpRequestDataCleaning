@@ -3,7 +3,7 @@
 <details open="open">
   <summary>Tabla de contenidos</summary>
   <ol>
-    <li> <a href="#about-the-project">Sobre el proyecto</a></li>
+    <li> <a href="# Sobre el proyecto">Sobre el proyecto</a></li>
     <li><a href="#Construido con">Construido con:</a></li>
     <li><a href="#getting-started">Empezando</a></li>
     <li><a href="#usage">Usage</a></li>
