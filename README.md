@@ -81,18 +81,9 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 ```
 |-- project-root
 |   |-- templates
-|   |   |-- component
-|   |   |   |-- {{hyphenate name}}
-|   |   |   |   |-- {{hyphenate name}}.component.css.tpl
-|   |   |   |   |-- {{hyphenate name}}.component.html.tpl
-|   |   |   |   |-- {{hyphenate name}}.component.ts.tpl
-|   |   |   |-- .config
-|   |   |-- service
-|   |   |   |-- {{hyphenate name}}.service.ts.tpl
-|   |   |   |-- .config
-|   |-- package.json
-|   |-- Gruntfile.js
-|   |-- LICENSE.md
+|   |-- templates
+|   |-- templates
+|   |-- templates
 |   |-- README.md
 ```
 
