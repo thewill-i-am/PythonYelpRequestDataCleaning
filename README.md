@@ -139,10 +139,6 @@ cd $HOME/miniconda3/conda-bld/
 anaconda upload */PACKAGENAME-VERSION_*.tar.bz2
 ```
 
-### Installing your package
-
-After uploading to your repository of interest, you should be able to download and install your package according to the tools for that repository.
-
 ### PyPI
 
 ```shell
