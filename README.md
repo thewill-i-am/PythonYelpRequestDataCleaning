@@ -3,7 +3,7 @@
 <details open="open">
   <summary>Tabla de contenidos</summary>
   <ol>
-    <li> <a href="# Sobre el proyecto">Sobre el proyecto</a></li>
+    <li> <a href="#sobre">Sobre el proyecto</a></li>
     <li><a href="#Construido con">Construido con:</a></li>
     <li><a href="#getting-started">Empezando</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-
+<div id="sobre"></div>
 El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
 
