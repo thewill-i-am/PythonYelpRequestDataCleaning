@@ -67,7 +67,8 @@ Dejo los links de la documentacion abajo
 
 * [BUSCAR POR_ID](https://www.yelp.com/developers/documentation/v3/business)
 
-<li>Los datos extraídos deben ser en formato jsony deben ser subidos a un repositorio en Github al igual que la documentación que se debe generar del punto 1.</li>
+Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la siguiente estructura:
+
 </ol>
 
 
