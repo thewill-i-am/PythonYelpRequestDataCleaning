@@ -51,9 +51,8 @@ Los datos extraídos deben ser en formato jsony deben ser subidos a un repositor
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Construido con:
+En esta seccion se especifica las herramientas tecnicas con las que se realizo el proyecto
 
 * [Python](https://www.python.org/)
 * [Jupyter](https://jupyter.org/)
