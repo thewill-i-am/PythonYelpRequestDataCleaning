@@ -74,7 +74,7 @@ Los datos de los endpoints de arriba son extraidos en forma JSON, y tienen la si
 ## Estructura de los Folders:
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-   <img src="images/logo.png" alt="Logo" width="80" height="80">
+   <img src="Esquema_API/Yelp_Estructura.jpeg" alt="Logo" width="80" height="80">
 </a>
 
 ## Nomenclatura:
