@@ -17,6 +17,7 @@
 
 
 <div id="sobre"></div>
+
 ## Sobre el proyecto
 El proyecto es un software que pueda extraer, transformar y cargar los datos de los negocios de la plataforma YELP.
 
