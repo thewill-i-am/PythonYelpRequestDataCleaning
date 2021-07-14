@@ -98,6 +98,10 @@ Nuestro proyecto tiene la siguiente estructura de folders:
 
 ## Nomenclatura:
 
+La nomenclatura utilizada para los folders es [SNAKE_CASE](https://en.wikipedia.org/wiki/Snake_case)
+La nomenclatura utilizada para los files es [Pascal CASE](https://www.theserverside.com/definition/Pascal-case)
+
+
 <!-- GETTING STARTED -->
 ## Empezando
 
