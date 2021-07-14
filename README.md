@@ -10,8 +10,6 @@
     <li><a href="#folders">Folders</a></li>
     <li><a href="#nomenclatura">Nomenclatura</a></li>
     <li><a href="#empezando">Empezando</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
